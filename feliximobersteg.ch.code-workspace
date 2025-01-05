@@ -14,5 +14,14 @@
       }
     },
     "cSpell.language": "en,de-DE"
+  },
+  "extensions": {
+    "recommendations": [
+      "shopify.ruby-extensions-pack",
+      "editorconfig.editorconfig",
+      "ms-vscode.makefile-tools",
+      "streetsidesoftware.code-spell-checker-german",
+      "streetsidesoftware.code-spell-checker"
+    ]
   }
 }
