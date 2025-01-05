@@ -1,7 +1,8 @@
 {
   "recommendations": [
     "editorconfig.editorconfig",
-    "ms-ceintl.vscode-language-pack-de",
-    "ms-vscode.makefile-tools"
+    "ms-vscode.makefile-tools",
+    "streetsidesoftware.code-spell-checker-german",
+    "streetsidesoftware.code-spell-checker"
   ]
 }

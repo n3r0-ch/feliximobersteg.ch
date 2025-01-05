@@ -3,5 +3,16 @@
     {
       "path": "."
     }
-  ]
+  ],
+  "settings": {
+    "cSpell.customDictionaries": {
+      "custom-dictionary-workspace": {
+        "name": "custom-dictionary-workspace",
+        "path": "${workspaceFolder:feliximobersteg.ch}/.cspell/custom-dictionary-workspace.txt",
+        "addWords": true,
+        "scope": "workspace"
+      }
+    },
+    "cSpell.language": "en,de-DE"
+  }
 }
