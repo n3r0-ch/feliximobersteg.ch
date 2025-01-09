@@ -21,7 +21,8 @@
       "editorconfig.editorconfig",
       "ms-vscode.makefile-tools",
       "streetsidesoftware.code-spell-checker-german",
-      "streetsidesoftware.code-spell-checker"
+      "streetsidesoftware.code-spell-checker",
+      "mrmlnc.vscode-duplicate"
     ]
   }
 }

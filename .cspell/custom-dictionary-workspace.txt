@@ -1,2 +1,5 @@
 # Custom Dictionary Words
+Determinator
 endfor
+jekyll
+Recents
