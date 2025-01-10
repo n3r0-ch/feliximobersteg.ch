@@ -37,6 +37,7 @@ defaults:
       path: "**/*"
     values:
       layout: "default"
+      showCCLicense: true
   - scope:
       path: "_notes/**/*.md"
     values:
