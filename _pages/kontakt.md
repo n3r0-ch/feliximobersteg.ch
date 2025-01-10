@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-permalink: /kontakt
+permalink: /kontakt/
 showCCLicense: false
 ---
 

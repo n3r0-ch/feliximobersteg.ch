@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datenschutzerklärung
-permalink: /datenschutz
+permalink: /datenschutz/
 showCCLicense: false
 ---
 
