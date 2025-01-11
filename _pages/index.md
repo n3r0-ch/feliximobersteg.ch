@@ -11,7 +11,6 @@ hideCCLicense: true
 Herzlich willkommen auf meiner Webseite. Diese ist gerade erst in der Entstehung und noch ziemlich leer. Falls du aber nur meine Kontaktdaten suchst, findest du diese unter [[Kontakt]].
 
 
-<!--
 <hr>
 
 ## Zuletzt überarbeitete Inhalte
@@ -23,4 +22,3 @@ Herzlich willkommen auf meiner Webseite. Diese ist gerade erst in der Entstehung
     </li>
   {% endfor %}
 </ul>
--->
