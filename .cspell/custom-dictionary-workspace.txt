@@ -1,6 +1,9 @@
 # Custom Dictionary Words
+andykenward
+cloudflare
 Determinator
 endfor
+github
 Imobersteg
 jekyll
 Recents

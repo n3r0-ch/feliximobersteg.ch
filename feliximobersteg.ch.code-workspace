@@ -22,7 +22,8 @@
       "ms-vscode.makefile-tools",
       "streetsidesoftware.code-spell-checker-german",
       "streetsidesoftware.code-spell-checker",
-      "mrmlnc.vscode-duplicate"
+      "mrmlnc.vscode-duplicate",
+      "github.vscode-github-actions"
     ]
   }
 }
