@@ -2,7 +2,7 @@ name: Build an Deploy
 
 on:
   push:
-    branches: [ "main", "develop"  ]
+    branches: [ "main", "develop" ]
 
 permissions:
   actions: read
@@ -30,7 +30,6 @@ jobs:
 
   deploy:
     name: Deploy site
-    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/develop'
     runs-on: ubuntu-latest
     needs: build_and_test
     steps:
