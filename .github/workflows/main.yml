@@ -1,0 +1,37 @@
+name: Build an Deploy
+
+on:
+  push:
+    branches: [ "main", "develop"  ]
+
+permissions:
+  contents: read
+
+jobs:
+  build_and_test:
+    name: Build and test site
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+    - name: Build site
+      run: make build
+    - uses: actions/upload-artifact@v4
+      with:
+        name: _site
+        path: _site
+
+  deploy:
+    name: Deploy site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: _site
+          path: _site
+      - name: Debug
+        run: ls _site
