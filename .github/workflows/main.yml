@@ -1,4 +1,4 @@
-name: Build an Deploy
+name: Main Action
 
 on:
   push:
