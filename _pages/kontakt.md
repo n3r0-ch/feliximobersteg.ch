@@ -2,7 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
-showCCLicense: false
+show_cc_license: false
 ---
 
 # Kontakt ☎️

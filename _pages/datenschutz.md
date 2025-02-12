@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 permalink: /datenschutz/
-showCCLicense: false
+show_cc_license: false
 ---
 
 # Datenschutzerklärung 🔐
