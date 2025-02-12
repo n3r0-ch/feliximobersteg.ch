@@ -123,6 +123,13 @@ nav {
   }
 }
 
+article {
+  p {
+    text-align: justify;
+    hyphens: auto;
+  }
+}
+
 #notes-entry-container {
   display: grid;
   grid-gap: 2em;
@@ -140,6 +147,8 @@ nav {
   background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
+  text-align: justify;
+  hyphens: auto;
 }
 
 code {
