@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Home
+title: Hallo 👋
 id: home
 permalink: /
 hideCCLicense: true
 ---
-
-# Hallo 👋
 
 Herzlich willkommen auf meiner Webseite. Diese ist gerade erst in der Entstehung und noch ziemlich leer. Falls du aber nur meine Kontaktdaten suchst, findest du diese unter [[Kontakt]].
 

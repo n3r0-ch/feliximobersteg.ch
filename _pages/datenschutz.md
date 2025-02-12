@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Datenschutzerklärung
+title: Datenschutzerklärung 🔐
 permalink: /datenschutz/
 show_cc_license: false
 ---
-
-# Datenschutzerklärung 🔐
 
 Ich freue mich, dass du meine Website besuchst. Der Schutz deiner persönlichen Daten ist mir sehr wichtig. Hier erfährst du, welche Daten ich erhebe, wie ich sie verwende und welche Rechte du hast.
 

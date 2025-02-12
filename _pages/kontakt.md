@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Kontakt
+title: Kontakt ☎️
 permalink: /kontakt/
 show_cc_license: false
 ---
-
-# Kontakt ☎️
 
 Hast du Fragen, Anmerkungen oder ein anderes Anliegen. Dann erreichst du mich unter den folgenden Angaben:
 

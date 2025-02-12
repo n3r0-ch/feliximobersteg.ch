@@ -123,14 +123,14 @@ nav {
   }
 }
 
-article {
+content {
   p {
     text-align: justify;
     hyphens: auto;
   }
 }
 
-#notes-entry-container {
+#notes-entry-container, #page-entry-container {
   display: grid;
   grid-gap: 2em;
   grid-template-areas:
