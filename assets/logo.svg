@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="56.879452mm"
+   height="56.938686mm"
+   viewBox="0 0 56.87945 56.938686"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="399.8896"
+     inkscape:cy="194.80153"
+     inkscape:window-width="1902"
+     inkscape:window-height="815"
+     inkscape:window-x="1855"
+     inkscape:window-y="265"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g10" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath38">
+      <path
+         d="M 0,1159.37 H 1729.134 V 0 H 0 Z"
+         id="path36" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(115.30077,-91.28323)">
+    <g
+       id="g10"
+       inkscape:label="felix"
+       transform="matrix(0.35277777,0,0,-0.35277777,-293.81539,324.25266)">
+      <g
+         id="g12"
+         transform="translate(632.1631,571.7128)">
+        <path
+           d="m 0,0 13.163,-13.163 -37.286,-37.285 -39.626,39.627 13.615,13.614 26.463,-26.464 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path14" />
+      </g>
+      <g
+         id="g16"
+         transform="translate(541.9507,587.3549)">
+        <path
+           d="M 0,0 -13.813,13.813 23.472,51.098 63.749,10.822 50.313,-2.614 23.849,23.85 Z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path18" />
+      </g>
+      <g
+         id="g20"
+         transform="translate(599.4497,512.6738)">
+        <path
+           d="m 0,0 -13.69,-13.689 -79.734,80.071 13.69,13.69 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path22" />
+      </g>
+      <g
+         id="g24"
+         transform="translate(667.2588,580.4828)">
+        <path
+           d="m 0,0 -13.69,-13.69 -79.903,79.903 13.69,13.69 z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path26" />
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
+       id="rect219"
+       width="240.86598"
+       height="55.113403"
+       x="-55.113403"
+       y="83.010307"
+       ry="27.556702" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
+       id="rect237"
+       width="56.134022"
+       height="105.46392"
+       x="-116.6616"
+       y="82.329895"
+       ry="27.556618" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
+       id="rect239"
+       width="72.463913"
+       height="78.927834"
+       x="-126.18737"
+       y="77.907211"
+       ry="27.556618" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
+       id="rect241"
+       width="58.855667"
+       height="62.938145"
+       x="-112.23891"
+       y="103.76289"
+       ry="27.556618" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
+       id="rect243"
+       width="72.804131"
+       height="88.793823"
+       x="-126.18737"
+       y="77.907211"
+       ry="27.556618" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
+       id="rect245"
+       width="81.9897"
+       height="75.18557"
+       x="-135.37294"
+       y="91.515465"
+       ry="2.2986465" />
+  </g>
+</svg>

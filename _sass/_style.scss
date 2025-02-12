@@ -106,6 +106,21 @@ a {
 
 nav {
   margin: 1em 0 3em;
+
+  .logo {
+    display: inline;
+    height: 1em;
+    vertical-align: text-bottom;
+    margin-right: 0.2em;
+  }
+
+  .internal-link {
+    border-bottom: none;
+
+    b {
+      border-bottom: 1px solid $color-border;
+    }
+  }
 }
 
 #notes-entry-container {
