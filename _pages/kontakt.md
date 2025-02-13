@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kontakt ☎️
+title: Kontakt
 permalink: /kontakt/
 show_cc_license: false
 ---

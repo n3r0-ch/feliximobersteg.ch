@@ -1,5 +1,5 @@
 ---
-title: Meditation 🧘
+title: Meditation
 ---
 
 > Je stiller du bist, desto mehr kannst du hören.

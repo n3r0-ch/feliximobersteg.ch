@@ -1,5 +1,5 @@
 ---
-title: Audio 🎧
+title: Audio
 ---
 
 Coming soon

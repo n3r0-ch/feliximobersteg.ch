@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Datenschutzerklärung 🔐
+title: Datenschutzerklärung
 permalink: /datenschutz/
 show_cc_license: false
 ---
