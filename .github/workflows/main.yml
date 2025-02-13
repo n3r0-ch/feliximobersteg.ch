@@ -38,7 +38,7 @@ jobs:
         name: _site
         path: _site
     - name: Deploy to Cloudflare Pages
-      uses: andykenward/github-actions-cloudflare-pages@v2.3.2
+      uses: andykenward/github-actions-cloudflare-pages@v2.5.0
       id: pages
       with:
         cloudflare-api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
