@@ -14,9 +14,9 @@ Verantwortlich für die Verarbeitung deiner personenbezogenen Daten bin ich Feli
 
 ## Hosting und Backend-Infrastruktur
 
-Meine Website wird bei Vercel, Inc. gehostet. Dieser Dienst stellt die Infrastruktur bereit, um meine Website zu betreiben und bestimmte Funktionen bereitzustellen. Siehe dazu: [Datenschutzerklärung Vercel](https://vercel.com/legal/privacy-policy)
+Meine Website wird bei [Cloudflare](https://www.cloudflare.com/) gehostet. Dieser Dienst stellt die Infrastruktur bereit, um meine Website zu betreiben und bestimmte Funktionen bereitzustellen. Siehe dazu: [Datenschutzerklärung Cloudflare](https://www.cloudflare.com/privacypolicy/)
 
-Bitte beachte, dass die Server von Vercel geografisch verteilt sein können, was es schwierig macht, den genauen Standort der Speicherung deiner personenbezogenen Daten festzustellen.
+Bitte beachte, dass die Server von [Cloudflare](https://www.cloudflare.com/) geografisch verteilt sein können, was es schwierig macht, den genauen Standort der Speicherung deiner personenbezogenen Daten festzustellen.
 
 
 ## Erhebung und Verarbeitung personenbezogener Daten
