@@ -33,20 +33,18 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+    - uses: actions/checkout@v4
     - uses: actions/download-artifact@v4
       with:
         name: _site
         path: _site
     - name: Deploy to Cloudflare Pages
-      uses: andykenward/github-actions-cloudflare-pages@v2.5.0
-      id: pages
+      uses: cloudflare/wrangler-action@v3
       with:
-        cloudflare-api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        cloudflare-account-id: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
-        cloudflare-project-name: ${{ vars.CLOUDFLARE_PROJECT_NAME }}
-        directory: _site
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        github-environment: ${{ vars.CLOUDFLARE_PROJECT_NAME }} ${{ (github.ref == 'refs/heads/main' && '(Production)') || '(Preview)' }}
+        apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        command: pages deploy _site --project-name=feliximobersteg-ch
+        gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
   cleanup:
     name: Cleanup
