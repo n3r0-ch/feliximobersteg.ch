@@ -19,6 +19,9 @@ jobs:
     - name: Checkout code
       uses: nschloe/action-cached-lfs-checkout@v1
 
+    - name: restore timestamps
+      uses: chetan/git-restore-mtime-action@v2
+
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
