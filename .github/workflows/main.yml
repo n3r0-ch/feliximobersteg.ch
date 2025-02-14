@@ -19,7 +19,6 @@ jobs:
     - name: Checkout code
       uses: nschloe/action-cached-lfs-checkout@v1
 
-
     - name: Fetch whole git history for timestamps
       run: git fetch --unshallow
 
