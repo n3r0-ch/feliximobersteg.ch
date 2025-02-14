@@ -20,14 +20,11 @@ jobs:
       uses: nschloe/action-cached-lfs-checkout@v1
 
 
-    - name: Fetch whole git history
+    - name: Fetch whole git history for timestamps
       run: git fetch --unshallow
 
     - name: restore timestamps
       uses: chetan/git-restore-mtime-action@v2
-
-    - name: Debug
-      run: ls -la _notes
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
