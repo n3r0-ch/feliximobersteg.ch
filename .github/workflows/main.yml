@@ -33,6 +33,11 @@ jobs:
     - name: Build site
       run: make build
 
+    - name: Run HTML validation
+      uses: Cyb3r-Jak3/html5validator-action
+      with:
+        root: _site
+
     - name: Run link checker
       uses: lycheeverse/lychee-action@v2
       with:
