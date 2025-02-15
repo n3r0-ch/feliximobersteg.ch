@@ -22,7 +22,7 @@ jobs:
     - name: Fetch whole git history for timestamps
       run: git fetch --unshallow
 
-    - name: restore timestamps
+    - name: Restore timestamps
       uses: chetan/git-restore-mtime-action@v2
 
     - name: Set up Ruby
@@ -33,7 +33,7 @@ jobs:
     - name: Build site
       run: make build
 
-    - name: Link Checker
+    - name: Run link checker
       uses: lycheeverse/lychee-action@v2
       with:
         fail: true
