@@ -37,7 +37,7 @@ jobs:
       uses: lycheeverse/lychee-action@v2
       with:
         fail: true
-        args: "--base _site --verbose --no-progress './**/*.html'"
+        args: "--base / --no-progress './_site/**/*.html'"
 
     - name: Deploy to Cloudflare Pages
       uses: cloudflare/wrangler-action@v3
