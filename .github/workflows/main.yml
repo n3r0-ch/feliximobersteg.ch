@@ -34,11 +34,10 @@ jobs:
       run: make build
 
     - name: Link Checker
-      id: lychee
       uses: lycheeverse/lychee-action@v2
       with:
         fail: true
-        args: "--base _site"
+        args: "--base _site --verbose --no-progress './**/*.html'"
 
     - name: Deploy to Cloudflare Pages
       uses: cloudflare/wrangler-action@v3

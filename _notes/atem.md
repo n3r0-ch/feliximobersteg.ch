@@ -6,5 +6,5 @@ title: Atem
 > <br><br>
 > *- [Thích Nhất Hạnh](https://plumvillage.org/de/thich-nhat-hanh-test)*
 
-* [[Audio|Geführte Atemübungen]]
+* [[Audio22|Geführte Atemübungen]]
 
