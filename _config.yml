@@ -6,6 +6,7 @@ exclude:
   - 'LICENSE'
   - 'Makefile'
   - 'README.md'
+url: https://feliximobersteg.ch # Used for SEO purposes
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
