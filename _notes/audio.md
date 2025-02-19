@@ -9,6 +9,6 @@ title: Audio
 {% include audio.html filename="3-atemraeume.mp3" %}
 
 
-## Mediationen
+## Meditationen
 
 Coming soon
