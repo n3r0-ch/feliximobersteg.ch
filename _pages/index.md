@@ -6,8 +6,15 @@ permalink: /
 hideCCLicense: true
 ---
 
-Herzlich willkommen auf meiner Webseite. Diese ist gerade erst in der Entstehung und noch ziemlich leer. Falls du aber nur meine Kontaktdaten suchst, findest du diese unter [[Kontakt]]. 😃
+Herzlich willkommen auf meiner Webseite. Diese ist wie ein digitaler Garten aufgebaut. Neue Inhalte sprießen wie junge Triebe im Frühling, während ältere manchmal verblühen und weichen, um Platz für Neues zu schaffen. Manche Seiten entstehen ganz frisch, andere verschwinden, wenn sie nicht mehr relevant sind, so wie in der Natur der ständige Wandel Teil des [[Yoga|Ganzen]] ist.
 
+Im Moment befindet sich die Webseite noch im Aufbau. Falls du an geführten [[Meditation|Meditationen]] oder [[Atem|Atemübungen]] interessiert bist, findest du diese unter [[Audio]]. Falls du meine Kontaktdaten suchst, findest du diese unter [[Kontakt]].
+
+Ich wünsche dir viel Freude beim Erkunden. 
+
+Mit Freude,
+
+![Signatur](/assets/img/signature.png){:style="margin-left: 0px;"}
 
 <hr>
 
