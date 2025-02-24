@@ -8,3 +8,7 @@ title: Yoga
 
 * [[Atem]]
 * [[Meditation]]
+
+<br>
+![Foto Sonenuntergang Shiva](/assets/img/naman-sood-SmnukmwrxKM-unsplash.jpg)
+> Foto von [Naman Sood](https://unsplash.com/de/@lcshutter)
