@@ -15,3 +15,7 @@ dev: ## Run development server
 .PHONY: build
 build: ## Install project dependencies
 	bundle exec jekyll build --trace
+
+.PHONY: expose
+expose: ## Expose to public with expose.sh
+	ssh -R 1:localhost:4000 n3r0-ch@expose.sh
