@@ -133,6 +133,10 @@ content {
     text-align: justify;
     hyphens: auto;
   }
+
+  :target::before {
+    content: "➡️ ";
+  }
 }
 
 #notes-entry-container, #page-entry-container {
