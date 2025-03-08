@@ -132,6 +132,10 @@ content {
   p {
     text-align: justify;
     hyphens: auto;
+
+    .internal-link {
+      hyphens: manual;
+    }
   }
 
   :target::before {
