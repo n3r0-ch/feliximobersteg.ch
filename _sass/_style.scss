@@ -31,12 +31,6 @@ time {
   margin: 0.5em 0 1em;
 }
 
-audio {
-  margin-top: 0.5em;
-  margin-bottom: 1em;
-  max-height: 1.5em;
-}
-
 footer {
   margin: 2em 0;
   font-size: 0.8em;
@@ -104,6 +98,9 @@ a {
   &.footnote:after,
   &.reversefootnote:after {
     content: "";
+  }
+  &.download-link:after {
+    content: "↓";
   }
 }
 
@@ -175,4 +172,18 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+.audioplayer {
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+
+  audio {
+    max-height: 1.5em;
+    display: block;
+  }
+
+  .download-link {
+    font-size: 0.8em;
+  }
 }
