@@ -1,5 +1,8 @@
 title:               Felix Imobersteg
-include:             ['_pages']
+include:
+  - '_pages'
+  - '_headers'
+  - '_redirects'
 exclude:
   - 'cspell.json'
   - '*.code-workspace'
