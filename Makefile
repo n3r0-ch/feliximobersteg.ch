@@ -10,7 +10,7 @@ install: ## Install project dependencies
 
 .PHONY: dev
 dev: ## Run development server
-	bundle exec jekyll serve --open-url
+	bundle exec jekyll serve --open-url --livereload --trace
 
 .PHONY: build
 build: ## Install project dependencies
