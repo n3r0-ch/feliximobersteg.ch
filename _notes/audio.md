@@ -2,7 +2,7 @@
 title: Audio
 ---
 
-Nachfolgend findest du einige geführte [[Meditation|Meditationen]] und [[Atem|Atemübungen]] auf Schweizerdeutsch, die dich bei deiner persönlichen Praxis begleiten.
+Nachfolgend findest du einige geführte Meditationen und Atemübungen auf Schweizerdeutsch, die dich bei deiner persönlichen Praxis begleiten.
 
 * toc
 {:toc}
@@ -11,6 +11,8 @@ Nachfolgend findest du einige geführte [[Meditation|Meditationen]] und [[Atem|A
 
 ## Erforschung der 3 Atemräume (10min)
 
+Eine kurze [[Atem|Atemübung]] zu Erforschung der 3 Atemräume.
+
 {% include audio.html filename="3-atemraeume.mp3" %}
 
 
@@ -18,9 +20,13 @@ Nachfolgend findest du einige geführte [[Meditation|Meditationen]] und [[Atem|A
 
 ## Atem-Achtsamkeit (10min)
 
+Eine kurze [[Meditation]] für eine Achtsame Verbindung mit deinem Atem ohne diesen zu beeinflussen.
+
 {% include audio.html filename="atemachtsamkeit.mp3" %}
 
-## Erdung (11min)
+## Erdung (12min)
+
+Eine sitzende [[Meditation]], welche dir helfen kann, deine Bodenhaftung wiederzufinden und die Verbindung zu Mutter Erde zu spüren.
 
 {% include audio.html filename="erdung.mp3" %}
 
