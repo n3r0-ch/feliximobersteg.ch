@@ -1,2 +1,2 @@
 _site/styles.css.*
-^\#*
+%23.* # Links with hashes (TOC)

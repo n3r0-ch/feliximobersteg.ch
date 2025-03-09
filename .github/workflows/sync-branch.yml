@@ -21,7 +21,7 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "github-action@feliximobersteg.ch"
 
-      - name: Update Test Branch
+      - name: Sync develop Branch
         run: |
           git checkout main
           git fetch origin
