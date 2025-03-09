@@ -9,7 +9,7 @@ Nachfolgend findest du einige geführte Meditationen und Atemübungen auf Schwei
 
 # Atemübungen
 
-## Erforschung der 3 Atemräume (10min)
+## 3 Atemräume (10min)
 
 Eine kurze [[Atem|Atemübung]] zu Erforschung der 3 Atemräume.
 
