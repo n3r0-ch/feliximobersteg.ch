@@ -17,7 +17,7 @@ Mit Freude,
 
 <hr>
 
-## Zuletzt überarbeitete Inhalte
+# Zuletzt überarbeitete Inhalte
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}

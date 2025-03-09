@@ -26,6 +26,9 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
 
+kramdown:
+  header_offset: 1
+
 sass:
   sass_dir:          _sass
   style:            :compressed

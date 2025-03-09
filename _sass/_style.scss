@@ -96,7 +96,8 @@ a {
   }
   &.internal-link:after,
   &.footnote:after,
-  &.reversefootnote:after {
+  &.reversefootnote:after,
+  &[id^="markdown-toc"]:after {
     content: "";
   }
   &.download-link:after {
