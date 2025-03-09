@@ -2,7 +2,7 @@ name: Main Action
 
 on:
   push:
-    branches: [ "main", "develop" ]
+    branches: [ "main" ]
 
 permissions:
   actions: read

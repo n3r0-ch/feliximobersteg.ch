@@ -1,2 +1,5 @@
+# Ignore style sheet due to cache bust
 _site/styles.css.*
-%23.* # Links with hashes (TOC)
+
+# Ignore TOC links
+^file:///%23.*
