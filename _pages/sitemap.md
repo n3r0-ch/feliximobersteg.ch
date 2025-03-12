@@ -8,7 +8,7 @@ permalink: /sitemap/
 
 
 <ul>
-  {% assign pages = site.pages | concat: site.notes | where_exp: "page", "page.title and page.title != '404'" | sort: "title" %}
+  {% assign pages = site.pages | concat: site.notes | where_exp: "page", "page.title and page.title != '404' and page.title != 'Sitemap'" | sort: "title" %}
   {% for page in pages %}
     <li>
       <a class="internal-link" href="{{ page.url }}">{{ page.title }}</a>
