@@ -1,0 +1,46 @@
+@page {
+  size: A4;
+  margin: 0;
+}
+
+@media print {
+  .hide-in-print {
+    display: none;
+  }
+
+  html, body {
+    margin: 0;
+    box-decoration-break: clone;
+  }
+
+  a {
+    border: none;
+    color: inherit;
+    &:after {
+      content:' (' attr(href) ')';
+      position: inherit;
+      color: inherit;
+      top: inherit;
+      font-size: inherit;
+    }
+    &[href^="mailto:"]:after, &[href^="tel:"]:after {
+      content: '';
+   }
+  }
+
+  content {
+    width: 88vw;
+  }
+
+  footer {
+    border-top: 1px solid hsl(0, 0%, 85%);
+  }
+
+  table, img {
+    page-break-inside: avoid;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid;
+  }
+}
