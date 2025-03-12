@@ -1,5 +1,6 @@
 ---
 title: Yoga
+title_icon: 🕉️
 ---
 
 > Yoga ist die Reise des Selbst, durch sich selbst, zu sich selbst. 

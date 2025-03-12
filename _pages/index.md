@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Hallo 👋
+title: Hallo
+title_icon: 👋
 id: home
 permalink: /
 ---

@@ -1,5 +1,6 @@
 ---
 title: Audio
+title_icon: 🎧
 ---
 
 Nachfolgend findest du einige geführte Meditationen und Atemübungen auf Schweizerdeutsch, die dich bei deiner persönlichen Praxis begleiten.

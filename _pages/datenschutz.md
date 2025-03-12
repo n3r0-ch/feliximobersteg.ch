@@ -3,6 +3,7 @@ layout: page
 title: Datenschutzerklärung
 permalink: /datenschutz/
 show_cc_license: false
+title_icon: 🔐
 ---
 
 * toc
