@@ -3,3 +3,6 @@ _site/styles.css.*
 
 # Ignore TOC links
 ^file:///%23.*
+
+# Ignore production links
+^https://feliximobersteg.ch/.*
