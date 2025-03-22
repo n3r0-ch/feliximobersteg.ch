@@ -31,6 +31,12 @@ Eine sitzende [[Meditation]], welche dir helfen kann, deine Bodenhaftung wiederz
 
 {% include audio.html filename="erdung.mp3" %}
 
+## Bodyscan (23min)
+
+Eine achtsame Reise durch deinen Körper. Ich empfehle dir, diese [[Meditation]] im Liegen durchzuführen.
+
+{% include audio.html filename="bodyscan.mp3" %}
+
 <br>
 ![Foto Blatt](/assets/img/aaron-burden-dXYE1d08BiY-unsplash.jpg)
 > Foto von [Aaron Burden](https://unsplash.com/de/@aaronburden)
