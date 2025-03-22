@@ -1,10 +1,10 @@
 <div class="audioplayer hide-in-print">
   <div>
     <audio controls preload="metadata" controlsList="nodownload noplaybackrate">
-      <source src="{{ '/assets/audio/' | append: include.filename }}" type="audio/mpeg">
+      <source src="{{ 'https://static.feliximobersteg.ch/audio/' | append: include.filename }}" type="audio/mpeg">
     </audio>
   </div>
   <div>
-    <a href="{{ '/assets/audio/' | append: include.filename }}" class="download-link" download>Herunterladen</a>
+    <a href="{{ 'https://static.feliximobersteg.ch/audio/' | append: include.filename }}" class="download-link" download>Herunterladen</a>
   </div>
 </div>
