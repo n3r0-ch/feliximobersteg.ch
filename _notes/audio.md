@@ -25,17 +25,20 @@ Eine kurze [[Meditation]] für eine [[Achtsamkeit|achtsame]] Verbindung mit dein
 
 {% include audio.html filename="atemachtsamkeit.mp3" %}
 
+
 ## Erdung (12min)
 
 Eine sitzende [[Meditation]], welche dir helfen kann, deine Bodenhaftung wiederzufinden und die Verbindung zu Mutter Erde zu spüren.
 
 {% include audio.html filename="erdung.mp3" %}
 
+
 ## Bodyscan (23min)
 
 Eine [[Achtsamkeit|achtsame]] Reise durch deinen Körper. Ich empfehle dir, diese [[Meditation]] im Liegen durchzuführen.
 
 {% include audio.html filename="bodyscan.mp3" %}
+
 
 <br>
 ![Foto Blatt](/assets/img/aaron-burden-dXYE1d08BiY-unsplash.jpg)

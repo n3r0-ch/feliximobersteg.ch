@@ -3,7 +3,7 @@ title: Achtsamkeit
 title_icon: 🧘‍♀️
 ---
 
-Achtsamkeit ist eine Geisteshaltung bei der ein Mensch Sinneswahrnehmungen direkt erfährt, ohne von Gedanken, Erinnerungen oder weiteren Aktivitäten des Geistes abgelenkt zu sein. Es findet keine Bewertung der Wahrnehmungen statt. Achtsamkeit kann somit als besondere Form der Aufmerksamkeit verstanden werden: eine offene, wache Präsenz im gegenwärtigen Moment.
+Achtsamkeit (englisch Mindfulness) ist eine Geisteshaltung bei der ein Mensch Sinneswahrnehmungen direkt erfährt, ohne von Gedanken, Erinnerungen oder weiteren Aktivitäten des Geistes abgelenkt zu sein. Es findet keine Bewertung der Wahrnehmungen statt. Achtsamkeit kann somit als besondere Form der Aufmerksamkeit verstanden werden: eine offene, wache Präsenz im gegenwärtigen Moment.
 
 Im Gegensatz zur Konzentration, bei der der Fokus eng auf ein bestimmtes Objekt gerichtet ist, bleibt die Aufmerksamkeit in der Achtsamkeit weit offen. Zwar kann ein Objekt als Anker (z. B. der [[Atem]] in der [[Meditation]]) dienen, doch die Wahrnehmung wird nicht absichtlich verengt, sondern bleibt offen für das gesamte Erleben.
 
