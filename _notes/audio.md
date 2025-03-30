@@ -21,7 +21,7 @@ Eine kurze [[Atem|Atemübung]] zu Erforschung der 3 Atemräume.
 
 ## Atem-Achtsamkeit (10min)
 
-Eine kurze [[Meditation]] für eine [[Achtsamkeit|achtsame]] Verbindung mit deinem Atem ohne diesen zu beeinflussen.
+Eine kurze [[Meditation]] für eine [[Achtsamkeit|achtsame]] Verbindung mit deinem [[Atem]] ohne diesen zu beeinflussen.
 
 {% include audio.html filename="atemachtsamkeit.mp3" %}
 
