@@ -1,8 +1,11 @@
 # Custom Dictionary Words
 andykenward
+bodyscan
+Bodyscan
 cloudflare
 Determinator
 endfor
+erdung
 github
 Imobersteg
 jekyll

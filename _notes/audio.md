@@ -21,7 +21,7 @@ Eine kurze [[Atem|Atemübung]] zu Erforschung der 3 Atemräume.
 
 ## Atem-Achtsamkeit (10min)
 
-Eine kurze [[Meditation]] für eine Achtsame Verbindung mit deinem Atem ohne diesen zu beeinflussen.
+Eine kurze [[Meditation]] für eine [[Achtsamkeit|achtsame]] Verbindung mit deinem Atem ohne diesen zu beeinflussen.
 
 {% include audio.html filename="atemachtsamkeit.mp3" %}
 
@@ -33,7 +33,7 @@ Eine sitzende [[Meditation]], welche dir helfen kann, deine Bodenhaftung wiederz
 
 ## Bodyscan (23min)
 
-Eine achtsame Reise durch deinen Körper. Ich empfehle dir, diese [[Meditation]] im Liegen durchzuführen.
+Eine [[Achtsamkeit|achtsame]] Reise durch deinen Körper. Ich empfehle dir, diese [[Meditation]] im Liegen durchzuführen.
 
 {% include audio.html filename="bodyscan.mp3" %}
 
