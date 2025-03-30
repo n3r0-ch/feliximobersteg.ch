@@ -27,7 +27,7 @@ Automatisch erfasste Daten: Beim Besuch meiner Website werden automatisch techni
 
 
 # Rechtsgrundlagen für die Verarbeitung
-Ich verarbeite deine Daten ausschließlich auf Basis gesetzlicher Vorgaben, insbesondere gemäß dem Schweizer Datenschutzgesetz (DSG) und soweit anwendbar der Datenschutz-Grundverordnung (DSGVO).
+Ich verarbeite deine Daten ausschliesslich auf Basis gesetzlicher Vorgaben, insbesondere gemäss dem Schweizer Datenschutzgesetz (DSG) und soweit anwendbar der Datenschutz-Grundverordnung (DSGVO).
 
 
 # Deine Rechte
@@ -35,5 +35,5 @@ Du hast das Recht, Auskunft über Deine gespeicherten Daten zu erhalten, diese k
 
 
 # Änderungen der Datenschutzerklärung
-Ich behalte mir vor, diese Datenschutzerklärung bei Bedarf anzupassen. Bitte besuche diese Seite regelmäßig, um auf dem aktuellen Stand zu bleiben.
+Ich behalte mir vor, diese Datenschutzerklärung bei Bedarf anzupassen. Bitte besuche diese Seite regelmässig, um auf dem aktuellen Stand zu bleiben.
 
