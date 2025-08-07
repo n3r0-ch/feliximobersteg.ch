@@ -6,6 +6,7 @@ id: sitemap
 permalink: /sitemap/
 ---
 
+Nachfolgend findest du eine alphabetische Übersicht über alle Seiten auf dieser Website.
 
 <ul>
   {% assign pages = site.pages | concat: site.notes | where_exp: "page", "page.title and page.title != '404' and page.title != 'Sitemap'" | sort: "title" %}
