@@ -5,7 +5,7 @@ require 'pathname'
 require 'jekyll-last-modified-at'
 
 module Recents
-  # Generate change information for all markdown pages
+  # Generate change information for all markdown notes
   class Generator < Jekyll::Generator
     def generate(site)
       items = site.collections['notes'].docs
