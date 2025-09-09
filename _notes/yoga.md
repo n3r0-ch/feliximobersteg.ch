@@ -10,6 +10,6 @@ title_icon: 🕉️
 * [[Atem]]
 * [[Meditation]]
 
-<br>
+\
 ![Foto Sonenuntergang Shiva](/assets/img/naman-sood-SmnukmwrxKM-unsplash.jpg)
 > Foto von Naman Sood <!-- Unsplash Profil gelöscht -->

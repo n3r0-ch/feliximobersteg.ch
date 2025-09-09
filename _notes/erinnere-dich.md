@@ -28,6 +28,6 @@ title: Erinnere dich
 > <br><br>
 > **Existenz - Bewusstsein - Glückseligkeit**
 
-<br>
+\
 ![Symbolbild Licht](/assets/img/thomas-kinto-K9WKqYj55E0-unsplash.jpg)
 > Foto von [Thomas Kinto](https://unsplash.com/de/@thomaskinto)

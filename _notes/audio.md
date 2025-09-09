@@ -40,7 +40,7 @@ Eine [[Achtsamkeit|achtsame]] Reise durch deinen Körper. Ich empfehle dir, dies
 {% include audio.html filename="bodyscan.mp3" %}
 
 
-<br>
+\
 ![Foto Blatt](/assets/img/aaron-burden-dXYE1d08BiY-unsplash.jpg)
 > Foto von [Aaron Burden](https://unsplash.com/de/@aaronburden)
 

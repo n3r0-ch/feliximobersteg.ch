@@ -11,6 +11,6 @@ Nachfolgend findest du eine Auswahl einiger meiner Texte:
 * [[Als ich mich fand]]
 * [[losgeloestes-sein|Losgelöstes Sein]]
 
-<br>
+\
 ![Symbolbild Fenster zum Transzendenten](/assets/img/jason-abdilla-SjwHMCqT-1M-unsplash.jpg)
 > Foto von [Jason Abdilla](https://unsplash.com/de/@theoneofussocialclub)

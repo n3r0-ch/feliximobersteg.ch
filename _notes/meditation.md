@@ -9,6 +9,6 @@ title_icon: 🧘‍♂️
 
 * [[Audio|Geführte Mediationen]]
 
-<br><br>
+\
 ![Foto Kerze](/assets/img/hans-vivek-UiMkBvDQSAA-unsplash.jpg)
 > Foto von [Hans Vivek](https://unsplash.com/de/@oneshotespresso)

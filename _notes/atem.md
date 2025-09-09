@@ -9,6 +9,6 @@ title_icon: 🫁
 
 * [[Audio|Geführte Atemübungen]]
 
-<br><br>
+\
 ![Symbolbild Atem](/assets/img/daniele-levis-pelusi-pAEwRKQJcn8-unsplash.jpg)
 > Foto von [Daniele Levis Pelusi](https://unsplash.com/de/@yogidan2012)
