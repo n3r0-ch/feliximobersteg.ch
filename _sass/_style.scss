@@ -111,7 +111,11 @@ a {
 }
 
 nav {
-  margin: 1em 0 3em;
+  margin: 1em 0 2em;
+
+  .title-link {
+    border-bottom: none;
+  }
 
   .logo {
     display: inline;
@@ -120,12 +124,8 @@ nav {
     margin-right: 0.2em;
   }
 
-  .internal-link {
-    border-bottom: none;
-
-    b {
-      border-bottom: 1px solid $color-border;
-    }
+  .link-list {
+    font-size: 0.9em;
   }
 }
 
