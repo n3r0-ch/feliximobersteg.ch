@@ -33,6 +33,26 @@
 
   {% if page.image %}
   <meta property="og:image" content="https://feliximobersteg.ch{{ page.image }}">
+  {% else %}
+    {% assign first_img = nil %}
+    {% assign img_parts = page.content | split: '<img ' %}
+    {% if img_parts.size > 1 %}
+      {% assign after_img = img_parts[1] %}
+      {% assign src_parts = after_img | split: 'src="' %}
+      {% if src_parts.size > 1 %}
+        {% assign src_rest = src_parts[1] | split: '"' %}
+        {% assign first_img = src_rest[0] %}
+      {% endif %}
+    {% endif %}
+
+    {% if first_img and first_img != '' %}
+      {% if first_img contains '://' %}
+        {% assign og_image = first_img %}
+      {% else %}
+        {% assign og_image = 'https://feliximobersteg.ch' | append: first_img %}
+      {% endif %}
+      <meta property="og:image" content="{{ og_image }}">
+    {% endif %}
   {% endif %}
 
   <title>
