@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Sitemap
 title_icon: 🗂️
 id: sitemap

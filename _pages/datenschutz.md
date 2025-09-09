@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Datenschutzerklärung
 permalink: /datenschutz/
 show_cc_license: false

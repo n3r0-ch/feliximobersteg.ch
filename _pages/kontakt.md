@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Kontakt
 title_icon: ☎️
 permalink: /kontakt/
