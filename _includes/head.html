@@ -5,7 +5,15 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="format-detection" content="address=no, telephone=no, email=no, date=no">
   <meta property="og:site_name" content="{{ site.title }}">
+  <title>
+    {% if page.id == "home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }} &mdash; {{ site.title }}
+    {% endif %}
+  </title>
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="stylesheet" href="{{ '/styles.css' }}?{{site.time | date: '%s'}}">
@@ -58,12 +66,4 @@
   {% if page.show_cc_license %}
     <link rel="license" href="https://creativecommons.org/licenses/by/4.0/">
   {% endif %}
-
-  <title>
-    {% if page.id == "home" %}
-      {{ site.title }}
-    {% else %}
-      {{ page.title }} &mdash; {{ site.title }}
-    {% endif %}
-  </title>
 </head>
