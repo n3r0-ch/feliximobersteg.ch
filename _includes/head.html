@@ -55,6 +55,10 @@
     {% endif %}
   {% endif %}
 
+  {% if page.show_cc_license %}
+    <link rel="license" href="https://creativecommons.org/licenses/by/4.0/">
+  {% endif %}
+
   <title>
     {% if page.id == "home" %}
       {{ site.title }}
