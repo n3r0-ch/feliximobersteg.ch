@@ -142,6 +142,10 @@ content {
   :target::before {
     content: "➡️ ";
   }
+
+  blockquote:first-child {
+    margin-top: 1.5em;
+  }
 }
 
 #notes-entry-container, #page-entry-container {
