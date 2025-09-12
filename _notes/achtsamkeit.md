@@ -16,7 +16,7 @@ Achtsamkeit kann auf verschiedene Weise geübt werden. Einige Beispiele dazu sin
   * **Gehen**: Jede Bewegung und die Berührung des Bodens bewusst spüren
   * **Zuhören**: Wirklich präsent sein, ohne innerlich zu antworten oder zu urteilen
   * **Gefühle**: Offen wahrnehmen, ohne diese zu unterdrücken oder zu verstärken
-* **Achtsame Bewegung**, z. B. [[Yoga]] Asana, Tai Chi oder Qi Gong
+* **Achtsame Bewegung**, z. B. Yoga, Tai Chi oder Qi Gong
 
 \
 ![Foto Lotusblüte](/assets/img/carlos-de-miguel-Kq2WV3WPrYU-unsplash.jpg)
