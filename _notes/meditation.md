@@ -1,6 +1,7 @@
 ---
 title: Meditation
 title_icon: 🧘‍♂️
+excerpt: Je stiller du bist, desto mehr kannst du hören.
 ---
 
 > Je stiller du bist, desto mehr kannst du hören.

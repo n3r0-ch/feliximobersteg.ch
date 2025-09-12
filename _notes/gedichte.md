@@ -1,9 +1,10 @@
 ---
 title: Gedichte
 title_icon: 🖊️
+excerpt: Gedichte können dem Unaussprechlichen eine Form geben
 ---
 
-Gedichte können dem Unaussprechlichen eine Form geben. Sie sind wortgewordene Lieder des Transzendenten - ein mögliches Fenster zum Unsichtbaren und doch Vertrauten.
+Gedichte können dem Unaussprechlichen eine Form geben. Sie sind wortgewordene Lieder des Transzendenten. Ein mögliches Fenster zum Unsichtbaren und doch Vertrauten.
 
 Nachfolgend findest du eine Auswahl einiger meiner Texte:
 

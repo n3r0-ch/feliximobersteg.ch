@@ -1,6 +1,7 @@
 ---
 title: Audio
 title_icon: 🎧
+excerpt: Geführte Meditationen und Atemübungen
 ---
 
 Nachfolgend findest du einige geführte Meditationen und Atemübungen auf Schweizerdeutsch, die dich bei deiner persönlichen Praxis begleiten.

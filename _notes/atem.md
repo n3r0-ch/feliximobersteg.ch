@@ -1,6 +1,7 @@
 ---
 title: Atem
 title_icon: 🫁
+excerpt: Atme ein, Atme aus
 ---
 
 > Ich atme ein und komme zur Ruhe. Ich atme aus und lächle. Heimgekehrt in das Jetzt wird dieser Moment ein Wunder.
