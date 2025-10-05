@@ -3,6 +3,7 @@ title: Hallo
 title_icon: 👋
 id: home
 permalink: /
+excerpt: Homepage - Willkommen
 ---
 
 Herzlich willkommen auf meiner Webseite. Diese ist wie ein digitaler Garten aufgebaut. Neue Inhalte spriessen wie junge Triebe im Frühling, während ältere manchmal verblühen und weichen, um Platz für Neues zu schaffen. Manche [[sitemap|Seiten]] entstehen ganz frisch, andere verschwinden, wenn sie nicht mehr relevant sind, so wie in der Natur der ständige Wandel Teil des Ganzen ist. 🌱

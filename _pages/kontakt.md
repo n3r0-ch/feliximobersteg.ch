@@ -3,6 +3,7 @@ title: Kontakt
 title_icon: ☎️
 permalink: /kontakt/
 show_cc_license: false
+excerpt: Kontaktinformationen
 ---
 
 Hast du Fragen, Anmerkungen oder ein anderes Anliegen. Dann erreichst du mich unter den folgenden Angaben:

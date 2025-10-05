@@ -3,6 +3,7 @@ title: Datenschutzerklärung
 permalink: /datenschutz/
 show_cc_license: false
 title_icon: 🔐
+excerpt: Erklärungen zum Datenschutz
 ---
 
 * toc
