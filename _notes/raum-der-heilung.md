@@ -2,6 +2,7 @@
 title: Raum der Heilung
 title_icon: 🌱
 excerpt: Erinnerung an die Ganzheit deines Wesens
+show_cc_license: false
 ---
 
 Im Raum der Heilung öffnet sich ein Feld, in welchem das, was in Bewegung kommen möchte, sanft in den Fluss findet. Es geht nicht so sehr um das Machen, sondern um ein stilles Sein, bei dem sich die natürliche Intelligenz des Lebens frei entfalten kann. \
