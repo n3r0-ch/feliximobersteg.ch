@@ -6,7 +6,7 @@ show_cc_license: false
 ---
 
 Im Raum der Heilung öffnet sich ein Feld, in welchem das, was in Bewegung kommen möchte, sanft in den Fluss findet. Es geht nicht so sehr um das Machen, sondern um ein stilles Sein, bei dem sich die natürliche Intelligenz des Lebens frei entfalten kann. \
-Es entsteht ein Resonanzfeld von Liebe, Licht und offenem Gewahrsein. Dabei erhalten Körper, Geist und Seele die Zuwendung, in welcher sie sich in ihrem eigenen Tempo neu ordnen dürfen. Alles entsteht ganz aus dem Moment heraus.
+Es entsteht ein Resonanzfeld von Liebe, Licht und Bewusstsein. Dabei erhalten Körper, Geist und Seele die Zuwendung, in welcher sie sich in ihrem eigenen Tempo neu ordnen dürfen. Alles entsteht ganz aus dem Moment heraus.
 
 Jede Sitzung ist einzigartig. Ich sehe mich dabei nicht als Heiler, sondern lediglich als Begleiter und Hüter des Raums, in dem Heilung geschehen darf. Dabei arbeite ich intuitiv mit feinstofflicher Energie und vereinzelt Klang. In diesem Prozess kann sich die allem zugrundeliegende Harmonie neu ordnen. Alles, was sich vollendet hat, darf weiterziehen. Der eigentliche Heiler ist das Bewusstsein selbst: In ihm findet sich die Balance deines individuellen Wesens neu.
 
