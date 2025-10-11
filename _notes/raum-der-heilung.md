@@ -12,7 +12,7 @@ Jede Sitzung ist einzigartig. Ich sehe mich dabei nicht als Heiler, sondern ledi
 Während der Sitzung liegst du vollständig bekleidet auf einer Liege. Ich arbeite situativ berührungslos oder mit sanfter Berührung an deinem Körper. Du musst dabei nichts tun. Möglicherweise zeigen sich Emotionen oder innere Bilder. Diese darfst du uneingeschränkt wahrnehmen und zulassen. Sollte etwas unangenehm für dich sein, lade ich dich ein, dies jederzeit mitzuteilen.
 
 Die Sitzungen finden auf Basis eines von dir frei gewählten Energieausgleichs statt. Du bist eingeladen, zu geben, was sich für dich stimmig und angemessen anfühlt.
-Der Raum der Heilung findet in meinem Zuhause im Zentrum von Thun statt. Nach Absprache sind gelegentlich auch andere Orte möglich.
+Der Raum der Heilung findet in meinem [[Kontakt|Zuhause]] im Zentrum von Thun statt. Nach Absprache sind gelegentlich auch andere Orte möglich.
 
 Der Raum der Heilung versteht sich als Einladung zur Selbstregulation, inneren Klärung und Rückverbindung zu dem, was du in Wahrheit schon immer gewesen bist. \
 Er ersetzt keine medizinische oder therapeutische Behandlung und beinhaltet kein Heilversprechen. Es öffnet sich vielmehr ein Raum, in dem Heilung geschehen darf, sofern die Zeit reif dafür ist. Vollkommen frei von Druck und Erwartung.
