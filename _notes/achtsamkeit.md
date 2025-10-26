@@ -4,7 +4,7 @@ title_icon: 🧘‍♀️
 excerpt: Theorie über Achtsamkeit
 ---
 
-Achtsamkeit (englisch Mindfulness) ist eine Geisteshaltung bei der ein Mensch Sinneswahrnehmungen direkt erfährt, ohne von Gedanken, Erinnerungen oder anderen geistigen Aktivitäten abgelenkt zu sein. Es findet keine Bewertung der Wahrnehmungen statt. Achtsamkeit kann somit als besondere Form der Aufmerksamkeit verstanden werden: eine offene, wache Präsenz im gegenwärtigen Moment. Alles darf sein, wie es ist.
+Achtsamkeit (englisch Mindfulness) ist eine Geisteshaltung bei der ein Mensch Sinneswahrnehmungen direkt erfährt, ohne von Gedanken, Erinnerungen oder anderen geistigen Aktivitäten abgelenkt zu sein. Es findet keine Bewertung der Wahrnehmungen statt. Achtsamkeit kann somit als besondere Form der Aufmerksamkeit verstanden werden: eine offene, wache Präsenz im gegenwärtigen Moment.
 
 Im Gegensatz zur Konzentration, welcher der Fokus eng auf ein bestimmtes Objekt gerichtet ist, bleibt die Aufmerksamkeit in der Achtsamkeit weit offen. Zwar kann ein Objekt als Anker (z.B. der [[Atem]] in der [[Meditation]]) dienen, doch die Wahrnehmung wird nicht absichtlich verengt, sondern bleibt frei und durchlässig für das gesamte Erleben.
 
