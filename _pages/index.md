@@ -3,6 +3,7 @@ title: Hallo
 title_icon: 👋
 id: home
 permalink: /
+show_cc_license: false
 excerpt: Homepage - Willkommen
 ---
 
@@ -16,8 +17,8 @@ Mit Freude,
 
 ![Signatur](/assets/img/signature.png){:style="margin-left: 0px;"}
 
+<!--
 <hr>
-
 # Zuletzt überarbeitete Inhalte
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -27,3 +28,4 @@ Mit Freude,
     </li>
   {% endfor %}
 </ul>
+-->
