@@ -7,9 +7,9 @@ show_cc_license: false
 excerpt: Homepage - Willkommen
 ---
 
-Herzlich willkommen auf meiner Webseite. Diese ist wie ein digitaler Garten aufgebaut. Neue Inhalte spriessen wie junge Triebe im Frühling, während ältere manchmal verblühen und weichen, um Platz für Neues zu schaffen. Manche [[sitemap|Seiten]] entstehen ganz frisch, andere verschwinden, wenn sie nicht mehr relevant sind, so wie in der Natur der ständige Wandel Teil des Ganzen ist. 🌱
+Herzlich willkommen auf meiner Webseite. Im Moment befindet sich diese noch im Aufbau. Falls du an geführten Meditationen oder Atemübungen interessiert bist, findest du diese unter [[Audio]]. Falls du meine Kontaktdaten suchst, findest du diese unter [[Kontakt]]. Einige kreative Texte findest du auf der Seite [[Gedichte]].
 
-Im Moment befindet sich die Webseite noch im Aufbau. Falls du an geführten [[Meditation|Meditationen]] oder [[Atem|Atemübungen]] interessiert bist, findest du diese unter [[Audio]]. Falls du meine Kontaktdaten suchst, findest du diese unter [[Kontakt]]. Einige kreative Texte findest du auf der Seite [[Gedichte]].
+Schon jetzt bist du von Herzen zu einem Besuch im [[Raum der Heilung]] eingeladen.
 
 Ich wünsche dir viel Spass und Inspiration beim Erkunden. 😃
 
