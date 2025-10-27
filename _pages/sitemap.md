@@ -4,6 +4,7 @@ title_icon: 🗂️
 id: sitemap
 permalink: /sitemap/
 excerpt: Übersicht über alle Seiten
+show_cc_license: false
 ---
 
 Nachfolgend findest du eine alphabetische Übersicht über alle Inhalte auf dieser [[index|Webseite]].
