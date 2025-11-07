@@ -7,7 +7,7 @@ show_cc_license: false
 excerpt: Homepage - Willkommen
 ---
 
-Herzlich willkommen auf meiner Webseite. Sie wächst wie ein digitaler Garten. Neue Inhalte spriessen wie junge Triebe, während ältere manchmal verblühen und Platz für Neues schaffen. Manche [[sitemap|Seiten]] entstehen frisch, andere verschwinden wieder.
+Herzlich willkommen auf meiner Webseite. Sie wächst wie ein digitaler Garten. Neue Inhalte spriessen wie junge Triebe, während ältere manchmal verblühen. Manche [[sitemap|Seiten]] entstehen frisch, andere verschwinden wieder.
 
 Vielleicht zieht es dich in den [[Raum der Heilung]]. Geführte [[Meditation|Meditationen]] und [[Atem|Atemübungen]] findest du unter [[Audio]]. Aus der Stille entsprungene Worte gibt es auf der Seite [[Gedichte]].
 
