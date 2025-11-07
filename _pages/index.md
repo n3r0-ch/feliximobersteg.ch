@@ -7,20 +7,20 @@ show_cc_license: false
 excerpt: Homepage - Willkommen
 ---
 
-Herzlich willkommen auf meiner Webseite. Im Moment befindet sich diese noch im Aufbau. Falls du an geführten Meditationen oder Atemübungen interessiert bist, findest du diese unter [[Audio]]. Falls du meine Kontaktdaten suchst, findest du diese unter [[Kontakt]]. Einige kreative Texte findest du auf der Seite [[Gedichte]].
+Herzlich willkommen auf meiner Webseite. Sie wächst wie ein digitaler Garten. Neue Inhalte spriessen wie junge Triebe, während ältere manchmal verblühen und Platz für Neues schaffen. Manche [[sitemap|Seiten]] entstehen frisch, andere verschwinden wieder.
 
-Schon jetzt bist du von Herzen zu einem Besuch im [[Raum der Heilung]] eingeladen.
+Vielleicht zieht es dich in den [[Raum der Heilung]]. Geführte [[Meditation|Meditationen]] und [[Atem|Atemübungen]] findest du unter [[Audio]]. Aus der Stille entsprungene Worte gibt es auf der Seite [[Gedichte]].
 
-Ich wünsche dir viel Spass und Inspiration beim Erkunden.
+Ich wünsche dir viel Freude und Inspiration beim Erkunden.
 
-Mit Freude,
+In Verbundenheit,
 
 ![Signatur](/assets/img/signature.png){:style="margin-left: 0px;"}
 
 \
 ![Symbolbild Wassertropfen](/assets/img/levi-xu-dOhJtfXJZfw-unsplash.jpg)
 
-<div class="jumbotron">
+<div class="hero">
   Es braucht nichts, um zu sein.
 </div>
 
