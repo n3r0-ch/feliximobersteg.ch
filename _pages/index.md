@@ -11,21 +11,17 @@ Herzlich willkommen auf meiner Webseite. Im Moment befindet sich diese noch im A
 
 Schon jetzt bist du von Herzen zu einem Besuch im [[Raum der Heilung]] eingeladen.
 
-Ich wünsche dir viel Spass und Inspiration beim Erkunden. 😃
+Ich wünsche dir viel Spass und Inspiration beim Erkunden.
 
 Mit Freude,
 
 ![Signatur](/assets/img/signature.png){:style="margin-left: 0px;"}
 
-<!--
-<hr>
-# Zuletzt überarbeitete Inhalte
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%d.%m.%Y" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
--->
+\
+![Symbolbild Wassertropfen](/assets/img/levi-xu-dOhJtfXJZfw-unsplash.jpg)
+
+<div class="jumbotron">
+  Es braucht nichts, um zu sein.
+</div>
+
+
