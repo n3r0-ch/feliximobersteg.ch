@@ -1,6 +1,6 @@
 ---
-title: "Eine Einladung: Raum der Heilung"
-title_icon: 🌱
+title: "Raum der Heilung"
+title_icon: ✨
 excerpt: Erinnerung an die Ganzheit deines Wesens
 show_cc_license: false
 ---
