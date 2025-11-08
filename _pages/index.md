@@ -3,7 +3,6 @@ title: Hallo
 title_icon: 👋
 id: home
 permalink: /
-show_cc_license: false
 excerpt: Eingang der Webseite
 ---
 
