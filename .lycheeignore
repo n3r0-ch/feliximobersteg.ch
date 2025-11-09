@@ -6,3 +6,8 @@ _site/styles.css.*
 
 # Ignore production links
 ^https://feliximobersteg.ch/.*
+
+# Ignore links which fail on Github action due Jimdo limits
+^https://www.yogaritual.ch/.*
+^https://www.danceyourlife.ch/.*
+^https://www.rebeccajenny.ch/.*
