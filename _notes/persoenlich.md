@@ -21,7 +21,7 @@ Ich erinnere mich noch gut, als aus dem Inneren die Frage aufkam, was denn die g
 Weder Tradition, Philosophie noch Wissenschaft konnten meine stetig lauter werdenden Fragen ganz beantworten. Mir wurde zunehmend klar, dass selbst präzisere Erklärungen auch nur eine Erscheinung im Bewusstsein sind und die Wahrheit niemals vollständig abbilden können.\
 In stillen Momenten tiefer [[Meditation]] klärten sich diese Fragen auf eine Weise, die weniger intellektuell und mehr unmittelbar war.
 
-Ich war vermutlich nie „spirituell Suchender“ im klassischen Sinn. Eher jemand, der unterwegs wiederholt gestolpert und in etwas Echtes gefallen ist.\
+Ich war vermutlich nie "spirituell Suchender" im klassischen Sinn. Eher jemand, der unterwegs wiederholt gestolpert und in etwas Echtes gefallen ist.\
 Es gab Phasen des Loslassens. Rollen, Ziele und Identifikationen fielen nach und nach weg. Ein Gefühl unbeschreiblicher Freiheit blieb.
 
 Wenn ich heute nicht einfach das Sein geniesse, die Schönheit der Natur bewundere oder ausgelassen lache, begleite ich Menschen im [[Raum der Heilung]] oder lasse Klänge aus der Stille entstehen. Vereinzelt versuche ich auch das Unbeschreibliche in Worte zu fassen. Stets im Wissen, dass Worte nur Hinweise sind und deine direkte Erfahrung niemals ersetzen können.
