@@ -10,7 +10,10 @@ install: ## Install project dependencies
 
 .PHONY: dev
 dev: ## Run development server
-	bundle exec jekyll serve --open-url --livereload --trace
+	@echo "Starting Jekyll and opening /sitemap..."
+	bundle exec jekyll serve --livereload --trace & \
+	sleep 2 && open "http://localhost:4000/sitemap/" ; \
+	wait
 
 .PHONY: build
 build: ## Install project dependencies
