@@ -16,5 +16,8 @@ Felix Imobersteg \
 📞 [+41 79 440 44 79](tel:+41794404479)
 
 \
+Möchtest du mehr über mich als Mensch erfahren, findest du dies auf der Seite [[Persönlich]].
+
+\
 ![Foto bunte Briefkästen](/assets/img/mathyas-kurmann-fb7yNPbT0l8-unsplash.jpg)
 > Foto von [Mathyas Kurmann](https://unsplash.com/de/@mathyaskurmann)

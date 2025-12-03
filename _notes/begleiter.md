@@ -1,10 +1,10 @@
 ---
 title: Begleiter
 title_icon: 🤝
-excerpt: Menschen des Seins
+excerpt: Menschen, die mich berührt haben
 ---
 
-Auf meinem Weg durfte ich vielen Menschen begegnen, die mein Leben berührt haben. Ihre Präsenz, Worte oder Stille haben liebevolle Spuren hinterlassen oder scheinbar verschlossene Türen geöffnet.
+Auf [[Persönlich|meinem Weg]] durfte ich vielen Menschen begegnen, die mein Leben berührt haben. Ihre Präsenz, Worte oder Stille haben liebevolle Spuren hinterlassen oder scheinbar verschlossene Türen geöffnet.
 
 Ich kann unmöglich alle namentlich erwähnen, aber trotzdem möchte ich einige davon hier würdigen. Ich danke von tiefstem Herzen:
 

@@ -10,7 +10,7 @@ Herzlich willkommen auf meiner Webseite. Sie wächst wie ein digitaler Garten. N
 
 Vielleicht zieht es dich in den [[Raum der Heilung]]. Geführte [[Meditation|Meditationen]] und [[Atem|Atemübungen]] findest du unter [[Audio]]. Aus der Stille entsprungene Worte gibt es auf der Seite [[Gedichte]].
 
-Ich wünsche dir viel Freude und Inspiration beim Erkunden.
+[[Persönlich|Ich]] wünsche dir viel Freude und Inspiration beim Erkunden.
 
 In Verbundenheit,
 
