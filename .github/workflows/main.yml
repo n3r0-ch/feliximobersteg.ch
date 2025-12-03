@@ -3,6 +3,9 @@ name: Main Action
 on:
   push:
     branches: [ "main" ]
+  schedule:
+    - cron: "36 0 1 1 *"   # 1. January, 00:36 UTC - Date footer
+    - cron: "36 0 30 6 *"  # 30. June, 00:36 UTC - Age of Felix including inaccuracies of tropical year
   workflow_dispatch:
 
 permissions:
