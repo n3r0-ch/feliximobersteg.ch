@@ -4,6 +4,7 @@ title_icon: 👋
 id: home
 permalink: /
 excerpt: Eingang der Webseite
+show_cc_license: false
 ---
 
 Herzlich willkommen auf meiner Webseite. Sie wächst wie ein digitaler Garten. Neue Inhalte spriessen wie junge Triebe, während ältere manchmal verblühen. Manche [[sitemap|Seiten]] entstehen frisch, andere verschwinden wieder.
