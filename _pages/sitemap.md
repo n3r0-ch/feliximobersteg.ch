@@ -3,7 +3,7 @@ title: Seitenübersicht
 title_icon: 🗂️
 id: sitemap
 permalink: /sitemap/
-excerpt: Übersicht über alle Seiten
+excerpt: Sitemap
 show_cc_license: false
 ---
 
