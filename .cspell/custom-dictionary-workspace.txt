@@ -10,5 +10,9 @@ github
 Imobersteg
 jekyll
 livereload
+Meditationsform
+Meditationsformen
+Meditationsgruppe
 Meditationskissen
+Nondualität
 Recents
