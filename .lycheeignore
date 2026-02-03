@@ -4,10 +4,10 @@ _site/styles.css.*
 # Ignore TOC links
 ^file:///%23.*
 
-# Ignore production links
+# Ignore production links, unpublished pages fail otherwise
 ^https://feliximobersteg.ch/.*
 
-# Ignore links which fail on Github action due Jimdo limits
+# Ignore links which fail on Github action due to Jimdo limits
 ^https://www.yogaritual.ch/.*
 ^https://www.danceyourlife.ch/.*
 ^https://www.rebeccajenny.ch/.*
