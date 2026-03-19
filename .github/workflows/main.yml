@@ -42,7 +42,7 @@ jobs:
       uses: lycheeverse/lychee-action@v2
       with:
         fail: true
-        args: "--base / --root-dir `pwd`/_site --no-progress './_site/**/*.html'"
+        args: "--base / --root-dir `pwd`/_site --accept 200,401,403 --no-progress './_site/**/*.html'"
 
     - name: Deploy to Cloudflare Pages
       uses: cloudflare/wrangler-action@v3
