@@ -17,6 +17,7 @@
 
   <link rel="icon" type="image/x-icon" href="/favicon.ico">
   <link rel="stylesheet" href="{{ '/styles.css' }}?{{site.time | date: '%s'}}">
+  <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
 
   {% if page.excerpt %}
   <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
