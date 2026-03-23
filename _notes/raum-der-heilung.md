@@ -1,5 +1,5 @@
 ---
-title: "Raum der Heilung"
+title: Raum der Heilung
 title_icon: ✨
 excerpt: Erinnerung an die Ganzheit deines Wesens
 ---
