@@ -45,7 +45,7 @@ jobs:
         args: "--base / --root-dir `pwd`/_site --accept 200,401,403 --no-progress './_site/**/*.html'"
 
     - name: Deploy to Cloudflare Pages
-      uses: cloudflare/wrangler-action@v4
+      uses: cloudflare/wrangler-action@v3
       with:
         apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
