@@ -14,3 +14,6 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+    ignore:
+      - dependency-name: "cloudflare/wrangler-action"
+        versions: [ "=4.0.0" ] # Broken version
