@@ -123,6 +123,7 @@ a {
     font-size: 0.7em;
     content: "↗";
     color: #aaaaaa;
+    display: inline-block;
   }
   &.internal-link:after,
   &.footnote:after,
