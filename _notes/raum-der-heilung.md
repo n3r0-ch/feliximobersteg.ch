@@ -16,7 +16,7 @@ Der Raum der Heilung findet in meinem [[Kontakt|Zuhause]] im Zentrum von Thun st
 Der Raum der Heilung versteht sich als Einladung zur Selbstregulation, inneren Klärung und Rückverbindung zu dem, was du in Wahrheit schon immer gewesen bist. \
 Er ersetzt keine medizinische oder therapeutische Behandlung und beinhaltet kein Heilversprechen. Es öffnet sich vielmehr ein Raum, in dem Heilung geschehen darf, sofern die Zeit reif dafür ist. Vollkommen frei von Druck und Erwartung.
 
-Möchtest du den Raum der Heilung selbst erleben oder hast offene Fragen, freue ich mich sehr über [[Kontakt|deinen Anruf oder deine Nachricht.]]
+Möchtest du den Raum der Heilung selbst erleben oder hast offene Fragen, freue ich mich sehr über [[Kontakt|deinen Anruf oder deine Nachricht]].
 
 \
 ![Symbolbild: Hand welche Wasser berührt](/assets/img/yoann-boyer-i14h2xyPr18-unsplash.jpg)
