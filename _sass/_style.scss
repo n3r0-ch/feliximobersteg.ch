@@ -133,6 +133,10 @@ a {
   &.download-link:after {
     content: "↓";
   }
+  &.download-link,
+  &[id^="markdown-toc"] {
+    text-decoration-thickness: 1px;
+  }
 }
 
 nav {
