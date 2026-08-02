@@ -104,14 +104,17 @@ h1, h2 {
 }
 
 a {
-  transition: background 300ms;
+  transition: color 300ms ease, border-color 300ms ease, background 300ms ease;
   padding: 0 0.1em;
-  text-decoration: none;
-  border-bottom: 1px solid $color-border;
+  text-decoration: underline dotted $color-primary;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+
   color: $color-primary;
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: black;
+    border-bottom-color: black;
+    background-color: $color-box-background;
   }
   &:after {
     position: relative;
@@ -129,11 +132,6 @@ a {
   &.download-link:after {
     content: "↓";
   }
-}
-
-*:focus {
-  background: #ffe8bc !important;
-  color: black !important;
 }
 
 nav {
@@ -164,6 +162,10 @@ content {
 
   blockquote:first-child {
     margin-top: 1.5em;
+  }
+
+  a {
+    text-decoration-thickness: 2px;
   }
 }
 
