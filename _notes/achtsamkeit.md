@@ -1,6 +1,5 @@
 ---
 title: Achtsamkeit
-title_icon: 🧘‍♀️
 excerpt: Theorie über Achtsamkeit
 ---
 

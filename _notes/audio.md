@@ -1,6 +1,5 @@
 ---
 title: Audio
-title_icon: 🎧
 excerpt: Geführte Meditationen und Atemübungen
 ---
 

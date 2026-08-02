@@ -1,13 +1,12 @@
 ---
-title: Hallo
-title_icon: 👋
+title: Willkommen!
 id: home
 permalink: /
 excerpt: Eingang der Webseite
 show_cc_license: false
 ---
 
-Herzlich willkommen auf meiner Webseite. Sie wächst wie ein digitaler Garten. Neue Inhalte spriessen wie junge Triebe, während ältere manchmal verblühen. Manche [[Seitenübersicht|Seiten]] entstehen frisch, andere verschwinden wieder.
+Diese Webseite wächst wie ein digitaler Garten. Neue Inhalte spriessen wie junge Triebe, während ältere manchmal verblühen. Manche [[Seitenübersicht|Seiten]] entstehen frisch, andere verschwinden wieder.
 
 Vielleicht zieht es dich in den [[Raum der Heilung]]. Geführte [[Meditation|Meditationen]] und [[Atem|Atemübungen]] findest du unter [[Audio]]. Aus der Stille entsprungene Worte gibt es auf der Seite [[Gedichte]].
 

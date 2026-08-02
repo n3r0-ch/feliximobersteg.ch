@@ -1,6 +1,5 @@
 ---
 title: Begleiter
-title_icon: 🤝
 excerpt: Menschen, die mich berührt haben
 ---
 

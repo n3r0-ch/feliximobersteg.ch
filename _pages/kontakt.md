@@ -1,6 +1,5 @@
 ---
 title: Kontakt
-title_icon: ☎️
 permalink: /kontakt/
 show_cc_license: false
 excerpt: Kontaktinformationen

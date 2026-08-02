@@ -1,6 +1,5 @@
 ---
 title: Atem
-title_icon: 🫁
 excerpt: Atme ein, Atme aus
 show_cc_license: false
 ---

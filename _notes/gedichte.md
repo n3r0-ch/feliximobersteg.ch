@@ -1,6 +1,5 @@
 ---
 title: Gedichte
-title_icon: 🖊️
 excerpt: Gedichte können dem Unaussprechlichen eine Form geben
 ---
 

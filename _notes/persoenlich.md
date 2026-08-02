@@ -1,6 +1,5 @@
 ---
 title: Persönlich
-title_icon: 👱‍♂️
 excerpt: Über mich und meinen Lebensweg
 ---
 

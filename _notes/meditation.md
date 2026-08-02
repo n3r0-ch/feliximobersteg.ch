@@ -1,6 +1,5 @@
 ---
 title: Meditation
-title_icon: 🧘‍♂️
 excerpt: Nichtstun und Sein
 ---
 

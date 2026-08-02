@@ -1,6 +1,5 @@
 ---
 title: Seitenübersicht
-title_icon: 🗂️
 id: sitemap
 permalink: /sitemap/
 excerpt: Sitemap
