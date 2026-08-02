@@ -110,7 +110,7 @@ a {
   padding: 0 0.1em;
   text-decoration: underline dotted $color-primary;
   text-decoration-thickness: 1px;
-  text-underline-offset: 0.25em;
+  text-underline-offset: 0.3em;
   color: $color-primary;
   &:hover {
     color: black;
@@ -163,6 +163,9 @@ content {
 
   blockquote:first-child {
     margin-top: 1.5em;
+  }
+  a {
+    text-decoration-thickness: 2px;
   }
 }
 
