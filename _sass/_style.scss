@@ -5,7 +5,7 @@ $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
 $color-body: color.mix($color-primary, white, 0.7%);
-$color-box-background: color.mix($color-primary, white, 4%);
+$color-box-background: color.mix($color-primary, white, 3%);
 $border-radius: 2px;
 $font-family:
   'Outfit',
@@ -111,7 +111,6 @@ a {
   text-decoration: underline dotted $color-primary;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.25em;
-
   color: $color-primary;
   &:hover {
     color: black;
