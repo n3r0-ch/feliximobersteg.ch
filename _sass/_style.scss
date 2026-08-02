@@ -159,7 +159,7 @@ content {
   }
 
   :target::before {
-    content: "➡️ ";
+    content: "> ";
   }
 
   blockquote:first-child {
