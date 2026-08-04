@@ -9,6 +9,8 @@ excerpt: Über mich und meinen Lebensweg
 
 Da wir uns beide gegenwärtig im Tanz des Lebens als Mensch erfahren, möchte ich dir etwas über mich und meinen Weg erzählen.
 
+![Portrait](/assets/img/portrait.jpg){:style="float: right; max-width: 12em; margin: 0 0 0 1em"}
+
 Als ich vor {{ age }} Jahren das Licht dieser Welt erblickte, gab man mir den Namen Felix, was auf lateinisch der Glückliche bedeutet. Vielleicht ahnte damals niemand, wie sehr mich die Frage nach dem Ursprung von Glück über viele Jahre begleiten würde.
 
 Schon früh wollte ich verstehen, wie Dinge zusammenhängen. Als Informatiker konnte ich diese Neugier auch beruflich ausleben. Eine tiefe psychische Krise hat jedoch dazu geführt, dass ich mich mehr und mehr den Landschaften des menschlichen Geistes zuwandte. Aus der Innenschau wuchsen Einsichten und ein erstes Verstehen. Dies führte mich dazu, Menschen in herausfordernden Lebenssituationen in mitfühlenden Gesprächen zu begleiten.
