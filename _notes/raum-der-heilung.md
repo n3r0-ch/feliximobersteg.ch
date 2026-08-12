@@ -19,5 +19,5 @@ Er ersetzt keine medizinische oder therapeutische Behandlung und beinhaltet kein
 Möchtest du den Raum der Heilung selbst erleben oder hast offene Fragen, freue ich mich sehr über [[Kontakt|deinen Anruf oder deine Nachricht]].
 
 \
-![Symbolbild: Hand welche Wasser berührt](/assets/img/yoann-boyer-i14h2xyPr18-unsplash.jpg)
-> Foto von [Yoann Boyer](https://unsplash.com/de/@yoannboyer)
+\
+![Liege Raum der Heilung](/assets/img/liege-raum-der-heilung.jpg)
