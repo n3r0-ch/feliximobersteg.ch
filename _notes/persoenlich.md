@@ -7,9 +7,9 @@ excerpt: Über mich und meinen Lebensweg
 {% assign now = "now" | date: "%s" %}
 {% assign age = now | minus: birth | divided_by: 31556926 %}
 
-Da wir uns beide gegenwärtig im Tanz des Lebens als Mensch erfahren, möchte ich dir etwas über mich und meinen Weg erzählen.
+![Portrait Felix](/assets/img/portrait-wald.jpg){:class="img-right"}
 
-![Portrait](/assets/img/portrait.jpg){:style="float: right; max-width: 12em; margin: 0 0 0 1em"}
+Da wir uns beide gegenwärtig im Tanz des Lebens als Mensch erfahren, möchte ich dir etwas über mich und meinen Weg erzählen.
 
 Als ich vor {{ age }} Jahren das Licht dieser Welt erblickte, gab man mir den Namen Felix, was auf lateinisch der Glückliche bedeutet. Vielleicht ahnte damals niemand, wie sehr mich die Frage nach dem Ursprung von Glück über viele Jahre begleiten würde.
 
@@ -34,5 +34,4 @@ Es ist mir ein Anliegen, Räume zu schaffen, in denen die eigene Wahrheit freige
 Der Tanz des Lebens beginnt und endet in einem Mysterium. Und doch sind wir nie etwas anderes als dieses Mysterium selbst. Mittlerweile weiss ich, dass ich sonst nichts sicher weiss. So lass uns doch dieses bunte Spiel aus Formen und Farben in Freude, Liebe und Frieden geniessen.
 
 \
-![Foto Licht im Wald](/assets/img/johannes-plenio-RwHv7LgeC7s-unsplash.jpg)
-> Foto von [Johannes Plenio](https://unsplash.com/de/@jplenio)
+![Portrait Felix mit Baum](/assets/img/portrait-baum.jpg)

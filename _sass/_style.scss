@@ -198,6 +198,28 @@ center {
   margin: 2em 0 2em 0;
 }
 
+.img-left,
+.img-right {
+  float: none;
+  margin: 0 0 1em 0;
+}
+
+@media (min-width: 700px) {
+  .img-left, .img-right {
+    max-width: 40%;
+  }
+
+  .img-left {
+    float: left;
+    margin: 0 1em 1em 0;
+  }
+
+  .img-right {
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+}
+
 .invalid-link {
   color: #444444;
   cursor: help;

@@ -18,5 +18,4 @@ Felix Imobersteg \
 Möchtest du mehr über mich als Mensch erfahren, findest du dies auf der Seite [[Persönlich]].
 
 \
-![Foto bunte Briefkästen](/assets/img/mathyas-kurmann-fb7yNPbT0l8-unsplash.jpg)
-> Foto von [Mathyas Kurmann](https://unsplash.com/de/@mathyaskurmann)
+![Portrait Felix am Thunersee](/assets/img/portrait-see.jpg)
