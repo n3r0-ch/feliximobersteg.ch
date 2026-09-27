@@ -34,4 +34,5 @@ Es ist mir ein Anliegen, Räume zu schaffen, in denen die eigene Wahrheit freige
 Der Tanz des Lebens beginnt und endet in einem Mysterium. Und doch sind wir nie etwas anderes als dieses Mysterium selbst. Mittlerweile weiss ich, dass ich sonst nichts sicher weiss. So lass uns doch dieses bunte Spiel aus Formen und Farben in Freude, Liebe und Frieden geniessen.
 
 \
-![Portrait Felix mit Baum](/assets/img/portrait-baum.jpg)
+![Foto Licht im Wald](/assets/img/johannes-plenio-RwHv7LgeC7s-unsplash.jpg)
+> Foto von [Johannes Plenio](https://unsplash.com/de/@jplenio)
