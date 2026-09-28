@@ -10,7 +10,7 @@ Wenn du mich und meine Arbeit gerne unterstützen möchtest, stehen dir dazu fol
 * **Bar** bei deinem Besuch im [[Raum der Heilung]]
 * **TWINT** an [+41 79 440 44 79](tel:+41794404479)
 * **Sach- und Zeitspenden** (nach Absprache)
-* **Überweisung** an 
+* **Überweisung** an
   * IBAN: CH41 0900 0000 3054 2030 1
   * Kontoinhaber: Felix Imobersteg, Allmendstrasse 3A, 3600 Thun
   * Betreff: Spende
