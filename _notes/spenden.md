@@ -7,7 +7,7 @@ Aus tiefster Überzeugung heraus, dass ganzheitliche Heilung und Spiritualität 
 
 Wenn du mich und meine Arbeit gerne unterstützen möchtest, stehen dir dazu folgende Möglichkeiten zur Verfügung:
 
-* **Bar** bei deinem Termin im [[Raum der Heilung]]
+* **Bar** bei deinem Besuch im [[Raum der Heilung]]
 * **TWINT** an [+41 79 440 44 79](tel:+41794404479)
 * **Sach- und Zeitspenden** (nach Absprache)
 * **Überweisung** an 
