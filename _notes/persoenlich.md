@@ -25,7 +25,7 @@ In stillen Momenten tiefer [[Meditation]] klärten sich diese Fragen auf eine We
 Ich war vermutlich nie "spirituell Suchender" im klassischen Sinn. Eher jemand, der unterwegs wiederholt gestolpert und in etwas Echtes gefallen ist.\
 Es gab Phasen des Loslassens. Rollen, Ziele und Identifikationen fielen nach und nach weg. Ein Gefühl unbeschreiblicher Freiheit blieb.
 
-Die Freude am Leben und die Freiheit, Neues zu entdecken, führten mich zu Wegen der inneren und geistigen Heilung. Ich durfte erfahren, wie viel Genesung und Entlastung doch möglich ist. Manche Symptome und Grenzen, die ich Jahre zuvor noch für unheilbar hielt, lösten sich auf oder traten in den Hintergrund. Ein spürbarer Gewinn an Lebensqualität war das Geschenk.
+Die Freude am Leben und die Freiheit, Neues zu entdecken, führten mich zur Erforschung energetischer und ganzheitlicher Heilung. Ich durfte erfahren, wie viel Genesung und Entlastung doch möglich ist. Manche Symptome und Grenzen, die ich Jahre zuvor noch für unheilbar hielt, lösten sich auf oder traten in den Hintergrund. Ein spürbarer Gewinn an Lebensqualität war das Geschenk.
 
 Wenn ich heute nicht einfach das Sein geniesse, die Schönheit der Natur bewundere oder ausgelassen lache, begleite ich Menschen im [[Raum der Heilung]] oder lasse Klänge aus der Stille entstehen. Vereinzelt versuche ich auch das Unbeschreibliche in Worte zu fassen. Stets im Wissen, dass Worte nur Hinweise sind und deine direkte Erfahrung niemals ersetzen können.
 
