@@ -27,7 +27,7 @@ Es gab Phasen des Loslassens. Rollen, Ziele und Identifikationen fielen nach und
 
 Die Freude am Leben und die Freiheit, Neues zu entdecken, führten mich zu Wegen der inneren und geistigen Heilung. Ich durfte erfahren, wie viel Genesung und Entlastung doch möglich ist. Manche Symptome und Grenzen, die ich Jahre zuvor noch für unheilbar hielt, lösten sich auf oder traten in den Hintergrund. Ein spürbarer Gewinn an Lebensqualität war das Geschenk.
 
-Wenn ich heute nicht einfach das Sein geniesse, die Schönheit der Natur bewundere oder ausgelassen lache, begleite ich Menschen im [[Raum der Heilung]] oder lasse Klänge aus der Stille entstehen. Vereinzelt versuche ich auch das Unbeschreibliche in [[Gedichte|Worte]] zu fassen. Stets im Wissen, dass Worte nur Hinweise sind und deine direkte Erfahrung niemals ersetzen können.
+Wenn ich heute nicht einfach das Sein geniesse, die Schönheit der Natur bewundere oder ausgelassen lache, begleite ich Menschen im [[Raum der Heilung]] oder lasse Klänge aus der Stille entstehen. Vereinzelt versuche ich auch das Unbeschreibliche in Worte zu fassen. Stets im Wissen, dass Worte nur Hinweise sind und deine direkte Erfahrung niemals ersetzen können.
 
 Ich sehe mich weder als Heiler noch als Lehrer. Vielleicht dienen dir aber meine Worte oder Räume als Spiegel, Einladung oder Resonanzgefäss, um deiner Essenz oder deinem authentischen Ausdruck zu begegnen.
 
