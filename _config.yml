@@ -26,6 +26,7 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-loading-lazy
+  - jekyll-cache-bust
 
 kramdown:
   header_offset: 1

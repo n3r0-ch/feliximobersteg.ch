@@ -10,3 +10,4 @@ gem "webrick", "~> 1.9"
 gem "nokogiri"
 gem 'jekyll-sitemap'
 gem 'jekyll-loading-lazy'
+gem 'jekyll-cache-bust'
