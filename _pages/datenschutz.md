@@ -22,11 +22,11 @@ Beim Besuch meiner Website werden automatisch technische Informationen erfasst, 
 Wenn du mich kontaktierst oder persönlich besuchst, verarbeite ich die von dir freiwillig bereitgestellten Informationen ausschliesslich zur Kommunikation und zur Durchführung der vereinbarten Begleitung.
 
 
-# Webhosting
+# Externe Dienstleister und Datenweitergabe
 
-Meine Website wird bei [Cloudflare](https://www.cloudflare.com/) gehostet. Dieser Dienst stellt die Infrastruktur bereit, um meine Website zu betreiben und bestimmte Funktionen bereitzustellen. Siehe dazu: [Datenschutzerklärung Cloudflare](https://www.cloudflare.com/privacypolicy/)
+Zur Bereitstellung meiner Website und für meine Organisation nutze ich externe Dienstleister (insbesondere für Webhosting, Kommunikation, Terminbuchungen und Cloud-Speicher).
 
-Bitte beachte, dass die Server von [Cloudflare](https://www.cloudflare.com/) geografisch verteilt sein können, was es schwierig macht, den genauen Standort der Speicherung deiner personenbezogenen Daten festzustellen.
+Dabei können personenbezogene Daten (wie deine IP-Adresse, Name, Kontaktangaben, Termindaten oder Nachrichteninhalte) an Server dieser Anbieter übermittelt und dort verarbeitet werden. Die Datenverarbeitung erfolgt überwiegend in der Schweiz, der Europäischen Union sowie in den USA. Ich achte darauf, dass ein angemessener Datenschutz stets vertraglich gewährleistet ist.
 
 
 # Rechtsgrundlagen für die Verarbeitung

@@ -254,3 +254,7 @@ center {
   text-align: center;
   color: color.mix($color-text, white, 80%);
 }
+
+#tooltip-content .hide-on-preview {
+  display: none;
+}
