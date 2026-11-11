@@ -1,3 +1,4 @@
 # https://developers.cloudflare.com/pages/configuration/redirects/
 
 /raum /raum-der-heilung/
+/termin https://cal.com/felix-imobersteg/raum-der-heilung
