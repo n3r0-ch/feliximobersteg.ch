@@ -6,7 +6,7 @@ excerpt: Erinnerung an die Ganzheit deines Wesens
 Im Raum der Heilung öffnet sich ein Feld, in welchem das, was in Bewegung kommen möchte, sanft in den Fluss findet. Es geht nicht so sehr um das Machen, sondern um ein stilles Sein, bei dem sich die natürliche Intelligenz des Lebens frei entfalten kann. \
 Es entsteht ein Resonanzfeld von Liebe, Licht und Bewusstsein. Dabei erhalten Körper, Geist und Seele die Zuwendung, in welcher sie sich in ihrem eigenen Tempo neu ordnen dürfen. Alles entsteht ganz aus dem Moment heraus.
 
-Jede Sitzung ist einzigartig. Ich sehe mich dabei nicht als Heiler, sondern lediglich als Begleiter und Hüter des Raums, in dem Heilung geschehen darf. Dabei arbeite ich intuitiv mit feinstofflicher Energie, rahmenden Gesprächen und vereinzelt Klang. In diesem Prozess kann sich die allem zugrundeliegende Harmonie neu ordnen. Alles, was sich vollendet hat, darf weiterziehen. Der eigentliche Heiler ist das Bewusstsein selbst: In ihm findet sich die Balance deines individuellen Wesens neu.
+Jede Sitzung ist einzigartig. Ich sehe mich dabei nicht als Heiler, sondern lediglich als Begleiter und Hüter des Raums, in dem Heilung geschehen darf. Dabei arbeite ich intuitiv mit feinstofflicher Energie, mitfühlenden Worten und vereinzelt Klang. In diesem Prozess kann sich die allem zugrundeliegende Harmonie neu ordnen. Alles, was sich vollendet hat, darf weiterziehen. Der eigentliche Heiler ist das Bewusstsein selbst: In ihm findet sich die Balance deines individuellen Wesens neu.
 
 Während der Sitzung liegst du vollständig bekleidet auf einer Liege. Ich arbeite situativ berührungslos oder mit sanfter Berührung an deinem Körper. Du musst dabei nichts tun. Möglicherweise zeigen sich Emotionen oder innere Bilder. Diese darfst du uneingeschränkt wahrnehmen und zulassen. Sollte etwas unangenehm für dich sein, lade ich dich ein, dies jederzeit mitzuteilen.
 
@@ -16,7 +16,7 @@ Der Raum der Heilung findet in [[Kontakt|meinem Zuhause]] im Zentrum von Thun st
 Der Raum der Heilung versteht sich als Einladung zur Selbstregulation, inneren Klärung und Rückverbindung zu dem, was du in Wahrheit schon immer gewesen bist. \
 Er ersetzt keine medizinische oder therapeutische Behandlung und beinhaltet kein Heilversprechen. Es öffnet sich vielmehr ein Raum, in dem Heilung geschehen darf, sofern die Zeit reif dafür ist. Vollkommen frei von Druck und Erwartung.
 
-Falls du jetzt neugierig geworden bist, aber noch ungeklärte Fragen hast, beantworte ich dir diese gerne  [[Kontakt|telefonisch oder per Mail]]. Möchtest du den Raum der Heilung direkt selber erleben, kannst du deinen persönlichen [[Termin|Termin online reservieren]]. 
+Hast du noch offene Fragen oder wünschst dir vorab ein persönliches Kennenlernen? Dann melde dich gerne [[Kontakt|telefonisch oder per Mail]] bei mir. Möchtest du den Raum der Heilung direkt selbst erleben, kannst du deinen [[Termin|Termin online reservieren]]. 
 
 \
 \
