@@ -15,7 +15,9 @@ Felix Imobersteg \
 📞 [+41 79 440 44 79](tel:+41794404479)
 
 \
-Möchtest du mehr über mich als Mensch erfahren, findest du dies auf der Seite [[Persönlich]]. Deine Termine im [[Raum der Heilung]] kannst du neu auch [[Termin|online reservieren]].
+Deinen Termin im [[Raum der Heilung]] oder für ein unverbindliches Kennenlerngespräch kannst du auch  [[Termin|online reservieren]].
+
+Möchtest du mehr über mich als Mensch erfahren, findest du dies auf der Seite [[Persönlich]].
 
 \
 ![Portrait Felix am Thunersee](/assets/img/portrait-see.jpg)

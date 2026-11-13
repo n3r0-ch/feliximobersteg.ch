@@ -16,7 +16,8 @@ Der Raum der Heilung findet in [[Kontakt|meinem Zuhause]] im Zentrum von Thun st
 Der Raum der Heilung versteht sich als Einladung zur Selbstregulation, inneren Klärung und Rückverbindung zu dem, was du in Wahrheit schon immer gewesen bist. \
 Er ersetzt keine medizinische oder therapeutische Behandlung und beinhaltet kein Heilversprechen. Es öffnet sich vielmehr ein Raum, in dem Heilung geschehen darf, sofern die Zeit reif dafür ist. Vollkommen frei von Druck und Erwartung.
 
-Hast du noch offene Fragen oder wünschst dir vorab ein persönliches Kennenlernen? Dann melde dich gerne [[Kontakt|telefonisch oder per Mail]] bei mir. Möchtest du den Raum der Heilung direkt selbst erleben, kannst du deinen [[Termin|Termin online reservieren]]. 
+Da jede Form von Heilarbeit Vertrauenssache ist, biete ich 15-minütige Kennenlerngespräche über Video oder Telefon an. Auf diese Weise kannst du mir zuerst unverbindlich begegnen und danach frei entscheiden, ob du den Raum der Heilung persönlich erleben möchtest.\
+Für die Kennenlerngespräche, wie auch die regulären Sitzungen, kannst du deinen [[Termin|Termin ganz unkompliziert online reservieren]]. Ich freue mich auf dich!
 
 \
 \
