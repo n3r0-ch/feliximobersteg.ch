@@ -20,7 +20,7 @@ In Verbundenheit,
 ![Symbolbild Wassertropfen](/assets/img/levi-xu-dOhJtfXJZfw-unsplash.jpg)
 
 <div class="hero">
-  Es braucht nichts, um zu sein.
+  Stille. Klarheit. Sein
 </div>
 
 
