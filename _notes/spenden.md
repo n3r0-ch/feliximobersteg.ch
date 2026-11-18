@@ -1,11 +1,11 @@
 ---
 title: Spenden
-excerpt: So kannst du mein Tun unterstützen
+excerpt: So kannst du mein Wirken unterstützen
 ---
 
 Aus tiefster Überzeugung heraus, dass ganzheitliche Heilung und Spiritualität für alle Menschen unabhängig von ihren finanziellen Verhältnissen zugänglich sein müssen, sind die Inhalte auf dieser Webseite kostenlos verfügbar. Auch der [[Raum der Heilung]] findet auf Spendenbasis statt. 
 
-Wenn du mich und meine Arbeit gerne unterstützen möchtest, stehen dir dazu folgende Möglichkeiten zur Verfügung:
+Wenn du mich und mein Wirken gerne unterstützen möchtest, stehen dir dazu folgende Möglichkeiten zur Verfügung:
 
 * **Bar** bei deinem Besuch im [[Raum der Heilung]]
 * **TWINT** an [+41 79 440 44 79](tel:+41794404479)
